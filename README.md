@@ -4,8 +4,8 @@
 
 
 - 🔭 I’m currently working on Java, Uipath, RPA
-- 👀 I’m interested in React, Javascript
-- 🌱 I’m currently learning React, JavaScript, HTML and CSS
+- 👀 I’m interested in React, Javascript, Node.js
+- 🌱 I’m currently learning React,  Node.js, JavaScript, HTML and CSS
 - 💞️ I’m looking to collaborate on Java, React, RPA projects
 - 📫 How to reach me in gp.andreolli@gmail.com  &  Discord : Glauber Andreolli#6155
 
